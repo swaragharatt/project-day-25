@@ -1,4 +1,4 @@
-# project-day-24
+# project-day-25
 # Animal Classifier
 
 A **web-based AI tool** that classifies animal images using **TensorFlow.js MobileNet model**.  
